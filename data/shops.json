@@ -1,37 +1,37 @@
 {
     "data": [
         {
-            "_id": "uMG0zj7iFNQ",
+            "_id": "by_anZLz6lr",
             "name": "Nikolaus LLC",
             "address": "365 Mae Streets",
             "ward": "Greenfelder Route",
             "phone": "0774887309",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-10-23T18:01:39.617Z"
+            "validBefore": "2021-10-23T18:13:52.689Z"
         },
         {
-            "_id": "luxI4GOM3",
+            "_id": "ZGL1rU-PR-l",
             "name": "MacGyver, Ward and Daugherty",
             "address": "74446 Rogers Trafficway",
             "ward": "Anderson Mount",
             "phone": "0568220877",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2021-06-25T22:12:22.780Z"
+            "validBefore": "2021-06-25T22:24:35.852Z"
         },
         {
-            "_id": "EXMV1bUfEq",
+            "_id": "F2ezlD-lUgz",
             "name": "Lynch Inc",
             "address": "63027 Rau Divide",
             "ward": "Bergstrom Ports",
             "phone": "0117340738",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": true,
-            "validBefore": "2023-01-22T09:30:24.532Z"
+            "validBefore": "2023-01-22T09:42:37.604Z"
         },
         {
-            "_id": "mZ6r6fdCX-",
+            "_id": "JK3Y3sXtrck",
             "name": "Langworth Group",
             "address": "9087 Liliane Neck",
             "ward": "Lazaro Spring",
@@ -39,17 +39,17 @@
             "type": "Quán bán thực phẩm"
         },
         {
-            "_id": "UqoGiappuT",
+            "_id": "PeLJEm7gcRQ",
             "name": "Okuneva Group",
             "address": "26507 Oberbrunner Greens",
             "ward": "Wilderman Stravenue",
             "phone": "0139729161",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-11-27T02:47:34.844Z"
+            "validBefore": "2022-12-17T01:57:06.352Z"
         },
         {
-            "_id": "wucqJhZ5S3",
+            "_id": "mAjnxyBDa6A",
             "name": "Larkin, Hudson and Walsh",
             "address": "5174 Hulda Stream",
             "ward": "Cayla Fort",
@@ -57,87 +57,87 @@
             "type": "Quán bán thực phẩm"
         },
         {
-            "_id": "QlNnjFna-3",
+            "_id": "lO08nq1m0gq",
             "name": "Kohler Group",
             "address": "108 Hermann Squares",
             "ward": "Wilderman Stravenue",
             "phone": "0408234775",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": true,
-            "validBefore": "2022-07-07T02:13:07.198Z"
+            "validBefore": "2022-07-07T02:25:20.270Z"
         },
         {
-            "_id": "pq2tvmthLM",
+            "_id": "i8ysQr_zcdp",
             "name": "Reinger LLC",
             "address": "335 Greenholt Square",
             "ward": "Pacocha Estates",
             "phone": "0880707917",
             "type": "Quán bán thực phẩm",
             "isValid": true,
-            "validBefore": "2023-02-15T21:38:06.332Z"
+            "validBefore": "2023-02-15T21:50:19.404Z"
         },
         {
-            "_id": "cS3p6mw83C",
+            "_id": "OsZLlFZCZHf",
             "name": "Smith - Rowe",
             "address": "4025 Brendan Ranch",
             "ward": "Bergstrom Ports",
             "phone": "0604914594",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2021-07-09T08:15:48.507Z"
+            "validBefore": "2023-05-06T20:28:52.691Z"
         },
         {
-            "_id": "p2vpmpoTAD",
+            "_id": "KBIrDga654Z",
             "name": "Fadel - Willms",
             "address": "857 Elvera Summit",
             "ward": "Pacocha Estates",
             "phone": "0148666773",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2022-05-05T04:14:43.146Z"
+            "validBefore": "2022-07-11T00:29:58.052Z"
         },
         {
-            "_id": "Dr1ITm4s0h",
+            "_id": "MDQnLIXzLUR",
             "name": "Konopelski - Barrows",
             "address": "914 Schuster Prairie",
             "ward": "Pacocha Estates",
             "phone": "0723997047",
             "type": "Quán bán thực phẩm",
             "isValid": true,
-            "validBefore": "2023-06-02T05:54:56.424Z"
+            "validBefore": "2023-06-02T06:07:09.496Z"
         },
         {
-            "_id": "MRW3jJMcJ1",
+            "_id": "v-tzC-p2qNq",
             "name": "Satterfield - Kris",
             "address": "740 Anika Cape",
             "ward": "Sipes Mill",
             "phone": "0768507280",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-12-20T11:58:08.579Z"
+            "validBefore": "2022-11-23T16:46:32.620Z"
         },
         {
-            "_id": "YVc7qokD2h",
+            "_id": "0y5PV6BUjZl",
             "name": "Jerde, Cummings and Koepp",
             "address": "6197 Greenfelder Ville",
             "ward": "Reyes Light",
             "phone": "0883164985",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-08-28T17:30:23.785Z"
+            "validBefore": "2023-03-17T11:14:17.414Z"
         },
         {
-            "_id": "bMAITzVlBM",
+            "_id": "6suat_cZWfs",
             "name": "Schaden and Sons",
             "address": "854 Emmerich Via",
             "ward": "Sipes Mill",
             "phone": "0830333708",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2022-03-28T15:58:43.397Z"
+            "validBefore": "2022-03-28T16:10:56.469Z"
         },
         {
-            "_id": "73Rm8KNYK7",
+            "_id": "1oGB5biPheE",
             "name": "Stoltenberg - Hessel",
             "address": "92199 Kreiger Grove",
             "ward": "Melvin Skyway",
@@ -145,57 +145,57 @@
             "type": "Quán bán thực phẩm"
         },
         {
-            "_id": "48g1s67xAS",
+            "_id": "kgyJQpoF2hU",
             "name": "West - Tromp",
             "address": "8147 Hoeger Cliffs",
             "ward": "Camilla Rapids",
             "phone": "0549141736",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2022-01-19T18:10:23.986Z"
+            "validBefore": "2022-01-19T18:22:37.058Z"
         },
         {
-            "_id": "Y8OhEOO98_",
+            "_id": "t47OyloraRC",
             "name": "Effertz - Corkery",
             "address": "93966 Stone Harbors",
             "ward": "Cayla Fort",
             "phone": "0617999862",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": true,
-            "validBefore": "2023-03-31T22:59:20.773Z"
+            "validBefore": "2023-03-31T23:11:33.845Z"
         },
         {
-            "_id": "--Nm8bY41Lt",
+            "_id": "xEizONMFMcq",
             "name": "Schiller Group",
             "address": "09030 Coralie Camp",
             "ward": "Greenfelder Route",
             "phone": "0552860071",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2021-12-01T01:39:33.152Z"
+            "validBefore": "2022-12-13T03:05:08.048Z"
         },
         {
-            "_id": "tV4uKouxESW",
+            "_id": "_NsA7QzXYEW",
             "name": "Prohaska, Marvin and Pollich",
             "address": "497 Desmond Oval",
             "ward": "Wilderman Stravenue",
             "phone": "0229252563",
             "type": "Quán bán thực phẩm",
             "isValid": true,
-            "validBefore": "2022-12-17T21:23:18.807Z"
+            "validBefore": "2022-12-17T21:35:31.880Z"
         },
         {
-            "_id": "UcDgB15OPRB",
+            "_id": "JXQTz9w9hMP",
             "name": "Sipes, Streich and Johns",
             "address": "0588 Brown Islands",
             "ward": "Wilderman Stravenue",
             "phone": "0741100958",
             "type": "Quán bán thực phẩm",
             "isValid": true,
-            "validBefore": "2023-01-14T21:37:55.576Z"
+            "validBefore": "2023-01-14T21:50:08.649Z"
         },
         {
-            "_id": "_7o_Hf-h3AE",
+            "_id": "Oz3mNU_AvkI",
             "name": "Upton Inc",
             "address": "79186 Spinka Prairie",
             "ward": "Anderson Mount",
@@ -203,87 +203,87 @@
             "type": "Cơ sở chế biến thực phẩm"
         },
         {
-            "_id": "ay68wapfWgn",
+            "_id": "qV62HNo4MMl",
             "name": "Schmidt, Flatley and Witting",
             "address": "667 Gunner Canyon",
             "ward": "Lazaro Spring",
             "phone": "0057030062",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": true,
-            "validBefore": "2022-12-31T16:55:21.987Z"
+            "validBefore": "2022-12-31T17:07:35.059Z"
         },
         {
-            "_id": "EU9IGApOCV0",
+            "_id": "ygfs4ggeB78",
             "name": "Klein - Mann",
             "address": "50805 O'Reilly Forest",
             "ward": "Melvin Skyway",
             "phone": "0423795033",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2021-07-10T21:41:30.392Z"
+            "validBefore": "2023-05-05T07:03:10.810Z"
         },
         {
-            "_id": "FhBNbKOaRkf",
+            "_id": "yU101gzI6if",
             "name": "Barrows - Cremin",
             "address": "6666 Schmidt Island",
             "ward": "Lazaro Spring",
             "phone": "0279528343",
             "type": "Quán bán thực phẩm",
             "isValid": true,
-            "validBefore": "2023-04-17T11:43:03.936Z"
+            "validBefore": "2023-04-17T11:55:17.008Z"
         },
         {
-            "_id": "DJFGyMKDCOC",
+            "_id": "nsz_AB9fShb",
             "name": "Hessel - Reilly",
             "address": "38003 Robb Gardens",
             "ward": "Melvin Skyway",
             "phone": "0263909560",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2021-07-26T03:10:42.350Z"
+            "validBefore": "2021-07-26T03:22:55.422Z"
         },
         {
-            "_id": "EmTG2cvg448",
+            "_id": "7Do1CpQfthb",
             "name": "Wuckert - Jacobs",
             "address": "8806 Hyatt Track",
             "ward": "Reyes Light",
             "phone": "0884534147",
             "type": "Quán bán thực phẩm",
             "isValid": true,
-            "validBefore": "2022-06-21T05:31:18.006Z"
+            "validBefore": "2022-06-21T05:43:31.078Z"
         },
         {
-            "_id": "fcZXJNQXWfW",
+            "_id": "tK7euXLAbE4",
             "name": "Dickinson and Sons",
             "address": "661 Luigi Roads",
             "ward": "Lia Gateway",
             "phone": "0901231327",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-06-08T11:18:01.311Z"
+            "validBefore": "2021-06-08T11:30:14.383Z"
         },
         {
-            "_id": "E5FZjUjjT_K",
+            "_id": "HZDILzxSGk6",
             "name": "Hermiston - Rolfson",
             "address": "2401 Willa Place",
             "ward": "Lindgren Road",
             "phone": "0908065566",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": true,
-            "validBefore": "2022-09-25T08:12:22.789Z"
+            "validBefore": "2022-09-25T08:24:35.862Z"
         },
         {
-            "_id": "AfqVXjMrsOT",
+            "_id": "qTouzdEtrYB",
             "name": "Gleichner, Muller and Gottlieb",
             "address": "3349 Lizzie Drive",
             "ward": "Anderson Mount",
             "phone": "0452107653",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-09-18T08:38:18.765Z"
+            "validBefore": "2023-02-24T20:06:22.438Z"
         },
         {
-            "_id": "auMMX83FRrw",
+            "_id": "alfk4gEh0gP",
             "name": "Zulauf, King and Sauer",
             "address": "0502 Morgan Row",
             "ward": "Cayla Fort",
@@ -291,17 +291,17 @@
             "type": "Cơ sở chế biến thực phẩm"
         },
         {
-            "_id": "czWd8Y3MCto",
+            "_id": "CegFFxb9CCZ",
             "name": "Hammes, Satterfield and Nolan",
             "address": "5058 Schultz Shores",
             "ward": "Bartell Roads",
             "phone": "0427124720",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": true,
-            "validBefore": "2023-02-15T23:06:58.118Z"
+            "validBefore": "2023-02-15T23:19:11.190Z"
         },
         {
-            "_id": "27iIZ-pR1Ng",
+            "_id": "BWO1cBk_CY2",
             "name": "Schoen Inc",
             "address": "769 Aniyah Falls",
             "ward": "Gulgowski Brook",
@@ -309,27 +309,27 @@
             "type": "Cơ sở chế biến thực phẩm"
         },
         {
-            "_id": "e_dkgrY-zV-",
+            "_id": "C44Gxqex9TL",
             "name": "Ortiz Group",
             "address": "49752 Bella Mountain",
             "ward": "Wilderman Stravenue",
             "phone": "0381492137",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2021-07-21T22:24:31.653Z"
+            "validBefore": "2023-04-24T06:20:09.552Z"
         },
         {
-            "_id": "WiJrlsnaICe",
+            "_id": "3BqWgXRM_xV",
             "name": "Nienow Inc",
             "address": "795 Zola Highway",
             "ward": "Karen Lakes",
             "phone": "0214644312",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": true,
-            "validBefore": "2022-11-21T11:25:45.443Z"
+            "validBefore": "2022-11-21T11:37:58.516Z"
         },
         {
-            "_id": "ozvunBvhWZS",
+            "_id": "Jz9jKIul8Z0",
             "name": "Towne, Toy and Ziemann",
             "address": "899 Zackary Gardens",
             "ward": "Lazaro Spring",
@@ -337,7 +337,7 @@
             "type": "Quán bán thực phẩm"
         },
         {
-            "_id": "dEgb6VtFDsk",
+            "_id": "CUhui3ffYHk",
             "name": "Zieme, Champlin and Walker",
             "address": "04542 Leonel Pass",
             "ward": "Anderson Mount",
@@ -345,27 +345,27 @@
             "type": "Cơ sở chế biến thực phẩm"
         },
         {
-            "_id": "yKEaK0vz8hJ",
+            "_id": "sZEh201CS7j",
             "name": "Jacobs, Lueilwitz and Stracke",
             "address": "56063 Amelie Ville",
             "ward": "Greenfelder Route",
             "phone": "0307488891",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2021-09-28T22:57:35.315Z"
+            "validBefore": "2021-09-28T23:09:48.387Z"
         },
         {
-            "_id": "STw2XVF-rR_",
+            "_id": "iTXWrM2Gx9j",
             "name": "Orn - Fisher",
             "address": "919 Karelle Lakes",
             "ward": "Sipes Mill",
             "phone": "0389133027",
             "type": "Quán bán thực phẩm",
             "isValid": true,
-            "validBefore": "2023-04-15T11:00:43.124Z"
+            "validBefore": "2023-04-15T11:12:56.196Z"
         },
         {
-            "_id": "bNa6oRGdFHV",
+            "_id": "HxHIcK46-gz",
             "name": "Schiller - Russel",
             "address": "096 Rosanna Estates",
             "ward": "Cayla Fort",
@@ -373,47 +373,47 @@
             "type": "Cơ sở chế biến thực phẩm"
         },
         {
-            "_id": "cTNvlAZDPMX",
+            "_id": "Jz6GS6OFwcQ",
             "name": "Bruen Inc",
             "address": "9867 Beer Point",
             "ward": "Lindgren Road",
             "phone": "0360619651",
             "type": "Quán bán thực phẩm",
             "isValid": true,
-            "validBefore": "2022-12-03T06:06:26.480Z"
+            "validBefore": "2022-12-03T06:18:39.552Z"
         },
         {
-            "_id": "QsCB32i9dZj",
+            "_id": "1FVIMnkqhMA",
             "name": "Marks, Herman and Batz",
             "address": "943 Alexa Row",
             "ward": "Schulist Extensions",
             "phone": "0414465165",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2021-10-18T13:36:33.084Z"
+            "validBefore": "2023-01-25T15:08:08.123Z"
         },
         {
-            "_id": "E9ELuVGTwUD",
+            "_id": "1lYoAvmOezd",
             "name": "Nikolaus - Fahey",
             "address": "43537 Anne Mountain",
             "ward": "Wilderman Stravenue",
             "phone": "0195735028",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": true,
-            "validBefore": "2023-03-29T04:29:10.755Z"
+            "validBefore": "2023-03-29T04:41:23.828Z"
         },
         {
-            "_id": "LYMIOWZS8eH",
+            "_id": "94OhdAwRzdP",
             "name": "Gibson, Muller and Cassin",
             "address": "622 Tad Road",
             "ward": "Camilla Rapids",
             "phone": "0041047111",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-10-09T13:51:29.768Z"
+            "validBefore": "2021-10-09T14:03:42.840Z"
         },
         {
-            "_id": "8W_SStSbkgK",
+            "_id": "946JK3XkPE8",
             "name": "Wisozk LLC",
             "address": "6974 Schulist Estate",
             "ward": "Ethel Mission",
@@ -421,177 +421,177 @@
             "type": "Quán bán thực phẩm"
         },
         {
-            "_id": "xMgvF5nvm3K",
+            "_id": "DI2z62S-B7y",
             "name": "Littel - Kautzer",
             "address": "316 Gwen Course",
             "ward": "Melvin Skyway",
             "phone": "0198790135",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2022-03-29T04:23:50.319Z"
+            "validBefore": "2022-03-29T04:36:03.391Z"
         },
         {
-            "_id": "k5hQEaN-9HS",
+            "_id": "VvEHDCdy13y",
             "name": "Yundt LLC",
             "address": "3358 Cleve Streets",
             "ward": "Reyes Light",
             "phone": "0926537370",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2022-01-21T03:34:03.907Z"
+            "validBefore": "2022-01-21T03:46:16.979Z"
         },
         {
-            "_id": "1BUaE3bQSla",
+            "_id": "YoxPaj3zohr",
             "name": "Lockman - Feil",
             "address": "37544 Flavio Streets",
             "ward": "Reyes Light",
             "phone": "0051763389",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-10-08T21:15:08.865Z"
+            "validBefore": "2023-02-04T07:29:32.343Z"
         },
         {
-            "_id": "zfdGYG2wHaM",
+            "_id": "qrG6pZF1Zj_",
             "name": "Kassulke and Sons",
             "address": "3582 Elyssa Port",
             "ward": "Reyes Light",
             "phone": "0101763990",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": true,
-            "validBefore": "2022-06-28T03:03:36.587Z"
+            "validBefore": "2022-06-28T03:15:49.659Z"
         },
         {
-            "_id": "U798W0BiDa4",
+            "_id": "4bce6Jw8WMe",
             "name": "Collins, Rowe and Kunde",
             "address": "5771 Darius Rapid",
             "ward": "Ethel Mission",
             "phone": "0407063335",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-11-08T06:28:34.750Z"
+            "validBefore": "2023-01-04T22:16:06.458Z"
         },
         {
-            "_id": "C3IXBA2Y4hS",
+            "_id": "LYOTMsxpMwH",
             "name": "Kerluke Group",
             "address": "7008 Kaia Wells",
             "ward": "Schulist Extensions",
             "phone": "0773503703",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2022-05-09T06:30:20.607Z"
+            "validBefore": "2022-07-06T22:14:20.602Z"
         },
         {
-            "_id": "QwLgieTUCdv",
+            "_id": "hGTmFHKvoIb",
             "name": "Thiel, Aufderhar and Schinner",
             "address": "718 Mayra Summit",
             "ward": "Bergstrom Ports",
             "phone": "0043066792",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-11-04T09:20:54.372Z"
+            "validBefore": "2021-11-04T09:33:07.445Z"
         },
         {
-            "_id": "E3mF0WYAxFE",
+            "_id": "5hLWNy3LJmf",
             "name": "Hermann and Sons",
             "address": "820 Kim Station",
             "ward": "Lindgren Road",
             "phone": "0544551426",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-11-19T10:56:02.257Z"
+            "validBefore": "2022-12-24T17:48:38.953Z"
         },
         {
-            "_id": "45idRhiRC6C",
+            "_id": "pB2W-jTVxW_",
             "name": "Russel, Daugherty and Ernser",
             "address": "092 Alessandra Heights",
             "ward": "Sipes Mill",
             "phone": "0006781607",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2022-01-15T07:03:12.294Z"
+            "validBefore": "2022-10-28T21:41:28.916Z"
         },
         {
-            "_id": "gA3EMkadopG",
+            "_id": "vkIX35VO6wF",
             "name": "Hyatt Inc",
             "address": "4991 Zachery Expressway",
             "ward": "Karen Lakes",
             "phone": "0552053076",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": true,
-            "validBefore": "2022-12-27T10:39:37.268Z"
+            "validBefore": "2022-12-27T10:51:50.340Z"
         },
         {
-            "_id": "5IzGXD8HB0P",
+            "_id": "rVlv-GD1ABo",
             "name": "MacGyver Group",
             "address": "27071 Dooley Ranch",
             "ward": "Gulgowski Brook",
             "phone": "0823683809",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": true,
-            "validBefore": "2022-08-16T06:23:43.334Z"
+            "validBefore": "2022-08-16T06:35:56.406Z"
         },
         {
-            "_id": "iS47HmyydUm",
+            "_id": "Rku2m9ToGdk",
             "name": "Zemlak and Sons",
             "address": "726 Clint Walk",
             "ward": "Lia Gateway",
             "phone": "0174525519",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-10-08T03:17:15.662Z"
+            "validBefore": "2023-02-05T01:27:25.548Z"
         },
         {
-            "_id": "B4bPNzhvPIb",
+            "_id": "TVH1-SS9uAD",
             "name": "Kutch, Marks and McGlynn",
             "address": "4351 Cartwright Prairie",
             "ward": "Karen Lakes",
             "phone": "0731320238",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-09-29T06:46:41.436Z"
+            "validBefore": "2021-09-29T06:58:54.509Z"
         },
         {
-            "_id": "HiHSuadgOv-",
+            "_id": "oJ-6u7ndRg1",
             "name": "Homenick, Osinski and Treutel",
             "address": "4684 Gulgowski Coves",
             "ward": "Bergstrom Ports",
             "phone": "0055712956",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2022-03-03T18:29:43.037Z"
+            "validBefore": "2022-09-11T10:14:58.174Z"
         },
         {
-            "_id": "77eT2soZe_t",
+            "_id": "q25lOlDJpto",
             "name": "Becker, Mayert and D'Amore",
             "address": "8543 Sherwood Trafficway",
             "ward": "Sipes Mill",
             "phone": "0215561178",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2021-09-20T13:00:12.502Z"
+            "validBefore": "2023-02-22T15:44:28.710Z"
         },
         {
-            "_id": "_2wdqvs6AUV",
+            "_id": "dj1--zB10Ed",
             "name": "Spencer - Mayer",
             "address": "3660 Raynor Points",
             "ward": "Wilderman Stravenue",
             "phone": "0910691777",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": true,
-            "validBefore": "2022-08-31T09:32:09.148Z"
+            "validBefore": "2022-08-31T09:44:22.220Z"
         },
         {
-            "_id": "9rpO4tz0K64",
+            "_id": "hde0WlxZn1Y",
             "name": "Orn, D'Amore and Cole",
             "address": "053 Bergnaum Street",
             "ward": "Pacocha Estates",
             "phone": "0129553309",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-10-30T19:17:53.589Z"
+            "validBefore": "2021-10-30T19:30:06.661Z"
         },
         {
-            "_id": "xQn7m_OBmyU",
+            "_id": "ob_0r24GWT0",
             "name": "Cummerata - Lubowitz",
             "address": "014 Bernardo Expressway",
             "ward": "Anderson Mount",
@@ -599,7 +599,7 @@
             "type": "Quán bán thực phẩm"
         },
         {
-            "_id": "J8C42tcZaZL",
+            "_id": "lmjYzLNBNSr",
             "name": "Kessler Group",
             "address": "989 Swift Mountain",
             "ward": "Cayla Fort",
@@ -607,47 +607,47 @@
             "type": "Quán bán thực phẩm"
         },
         {
-            "_id": "xBlo1jUrr42",
+            "_id": "e4z_TjSIXbS",
             "name": "Roob, Langosh and Leffler",
             "address": "545 Berge Mission",
             "ward": "Sipes Mill",
             "phone": "0484890694",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2022-04-29T23:21:14.163Z"
+            "validBefore": "2022-07-16T05:23:27.049Z"
         },
         {
-            "_id": "FdqMdzdmqld",
+            "_id": "tNXTeoBycAb",
             "name": "Spencer, Brakus and Reilly",
             "address": "4705 Zelda Springs",
             "ward": "Lazaro Spring",
             "phone": "0493481219",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-07-09T23:59:04.037Z"
+            "validBefore": "2023-05-06T04:45:37.175Z"
         },
         {
-            "_id": "g5-1z60NBV3",
+            "_id": "X7QQFCRKg77",
             "name": "Botsford, Stokes and Lynch",
             "address": "3037 Armstrong Rest",
             "ward": "Orlo Isle",
             "phone": "0904302597",
             "type": "Cơ sở chế biến thực phẩm",
             "isValid": false,
-            "validBefore": "2022-06-05T04:03:09.863Z"
+            "validBefore": "2022-06-10T00:41:31.350Z"
         },
         {
-            "_id": "YW9AHlPQgPw",
+            "_id": "qu7tHBgLKbD",
             "name": "Wisozk, Frami and Lynch",
             "address": "501 Rutherford Dam",
             "ward": "Anderson Mount",
             "phone": "0735376108",
             "type": "Quán bán thực phẩm",
             "isValid": false,
-            "validBefore": "2021-09-21T11:33:47.695Z"
+            "validBefore": "2023-02-21T17:10:53.518Z"
         },
         {
-            "_id": "67dioZHAQDP",
+            "_id": "IRqON1zm3av",
             "name": "Roob, Gusikowski and Pfeffer",
             "address": "86850 Turcotte Extensions",
             "ward": "Lindgren Road",
@@ -655,7 +655,7 @@
             "type": "Quán bán thực phẩm"
         },
         {
-            "_id": "CgtjebwXR38",
+            "_id": "g1718EsTyyz",
             "name": "Stokes, Wilkinson and Hand",
             "address": "120 Tyrel Green",
             "ward": "Melvin Skyway",

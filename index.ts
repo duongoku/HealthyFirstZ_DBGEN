@@ -82,7 +82,7 @@ function generate_shops(seed: number, wards: string[]) {
         }
         if (cert_types === 3) {
             isValid = false;
-            validBefore = faker.date.past();
+            validBefore = faker.date.future();
         }
         const shop: Shop = {
             _id: shortid.generate(),
