@@ -1,0 +1,24 @@
+{
+  "name": "healthy-first-objects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node index.ts -db -file -seed 5",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.1.0",
+    "@types/shortid": "^0.0.29",
+    "ts-node": "^10.8.0"
+  },
+  "dependencies": {
+    "argon2": "^0.28.5",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.3.5",
+    "shortid": "^2.2.16"
+  }
+}
