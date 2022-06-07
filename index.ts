@@ -29,6 +29,16 @@ function generage_users(
     const users: User[] = [];
     const flags = [1, 2, 3];
 
+    users.push({
+        _id: shortid.generate(),
+        email: "admin@admin.com",
+        password: default_password,
+        ward: "Admin Ward",
+        firstName: "Ad",
+        lastName: "Min",
+        permissionFlags: 3,
+    });
+
     for (let i = 0; i < user_count; i++) {
         const user: User = {
             _id: shortid.generate(),
@@ -260,6 +270,7 @@ async function generate(
         console.log("Data generated and written to db");
     }
 
+    await Mongoose.getMongoose().connection.close();
     console.log("DONE!");
 }
 
@@ -284,4 +295,3 @@ if (process.argv.includes("-seed")) {
 } else {
     generate(0, "admin", file, db);
 }
-Mongoose.getMongoose().connection.close();
