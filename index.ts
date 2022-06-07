@@ -64,6 +64,26 @@ function generate_shops(seed: number, wards: string[]) {
     const shop_types = ["Quán bán thực phẩm", "Cơ sở chế biến thực phẩm"];
 
     for (let i = 0; i < shop_count; i++) {
+        // 0 -> Not issued | 1 -> Issued | 2 -> Outdated | 3 -> Canceled
+        const cert_types = parseInt(faker.random.numeric(5)) % 4;
+        let isValid = undefined;
+        let validBefore = undefined; //faker.date.future()
+        if (cert_types === 0) {
+            isValid = undefined;
+            validBefore = undefined;
+        }
+        if (cert_types === 1) {
+            isValid = true;
+            validBefore = faker.date.future();
+        }
+        if (cert_types === 2) {
+            isValid = false;
+            validBefore = faker.date.past();
+        }
+        if (cert_types === 3) {
+            isValid = false;
+            validBefore = faker.date.past();
+        }
         const shop: Shop = {
             _id: shortid.generate(),
             name: faker.company.companyName(),
@@ -73,8 +93,8 @@ function generate_shops(seed: number, wards: string[]) {
             type: shop_types[
                 parseInt(faker.random.numeric(5)) % shop_types.length
             ],
-            isValid: parseInt(faker.random.numeric(5)) % 2 === 0,
-            validBefore: faker.date.future(),
+            isValid: isValid,
+            validBefore: validBefore,
         };
         shops.push(shop);
     }

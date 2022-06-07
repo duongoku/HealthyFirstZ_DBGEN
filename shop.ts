@@ -5,6 +5,6 @@ export interface Shop {
     ward: String;
     phone: String;
     type: String;
-    isValid: boolean;
-    validBefore: Date;
+    isValid: boolean | undefined;
+    validBefore: Date | undefined;
 }
