@@ -11,6 +11,7 @@ A data generator for HealthyFirstZ
 npm install
 ```
 to install the dependencies
+- Create a .env file with a variable "MONGO_URI" and assign your mongodb uri to its value
 
 ## Usage
 - Run
